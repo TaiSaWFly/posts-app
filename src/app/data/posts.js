@@ -1,0 +1,105 @@
+export const posts = [
+  {
+    userId: 1,
+    id: 1,
+    title:
+      "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    body: "quia et suscipitsuscipit recusandae consequuntur expedita et cumreprehenderit molestiae ut ut quas totamnostrum rerum est autem sunt rem eveniet architecto",
+  },
+  {
+    userId: 1,
+    id: 2,
+    title: "qui est esse",
+    body: "est rerum tempore vitaesequi sint nihil reprehenderit dolor beatae ea dolores nequefugiat blanditiis voluptate porro vel nihil molestiae ut reiciendisqui aperiam non debitis possimus qui neque nisi nulla",
+  },
+  {
+    userId: 1,
+    id: 3,
+    title: "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    body: "et iusto sed quo iurevoluptatem occaecati omnis eligendi aut advoluptatem doloribus vel accusantium quis pariaturmolestiae porro eius odio et labore et velit aut",
+  },
+  {
+    userId: 1,
+    id: 4,
+    title: "eum et est occaecati",
+    body: "ullam et saepe reiciendis voluptatem adipiscisit amet autem assumenda provident rerum culpaquis hic commodi nesciunt rem tenetur doloremque ipsam iurequis sunt voluptatem rerum illo velit",
+  },
+  {
+    userId: 1,
+    id: 5,
+    title: "nesciunt quas odio",
+    body: "repudiandae veniam quaerat sunt sedalias aut fugiat sit autem sed estvoluptatem omnis possimus esse voluptatibus quisest aut tenetur dolor neque",
+  },
+  {
+    userId: 1,
+    id: 6,
+    title: "dolorem eum magni eos aperiam quia",
+    body: "ut aspernatur corporis harum nihil quis provident sequimollitia nobis aliquid molestiaeperspiciatis et ea nemo ab reprehenderit accusantium quasvoluptate dolores velit et doloremque molestiae",
+  },
+  {
+    userId: 1,
+    id: 7,
+    title: "magnam facilis autem",
+    body: "dolore placeat quibusdam ea quo vitaemagni quis enim qui quis quo nemo aut saepequidem repellat excepturi ut quiasunt ut sequi eos ea sed quas",
+  },
+  {
+    userId: 1,
+    id: 8,
+    title: "dolorem dolore est ipsam",
+    body: "dignissimos aperiam dolorem qui eumfacilis quibusdam animi sint suscipit qui sint possimus cumquaerat magni maiores excepturiipsam ut commodi dolor voluptatum modi aut vitae",
+  },
+  {
+    userId: 1,
+    id: 9,
+    title: "nesciunt iure omnis dolorem tempora et accusantium",
+    body: "consectetur animi nesciunt iure doloreenim quia adveniam autem ut quam aut nobiset est aut quod aut provident voluptas autem voluptas",
+  },
+  {
+    userId: 1,
+    id: 10,
+    title: "optio molestias id quia eum",
+    body: "quo et expedita modi cum officia vel magnidoloribus qui repudiandaevero nisi sitquos veniam quod sed accusamus veritatis error",
+  },
+  {
+    userId: 2,
+    id: 11,
+    title: "et ea vero quia laudantium autem",
+    body: "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibusaccusamus in eum beatae sitvel qui neque voluptates ut commodi qui incidunut animi commodi",
+  },
+  {
+    userId: 2,
+    id: 12,
+    title: "in quibusdam tempore odit est dolorem",
+    body: "itaque id aut magnampraesentium quia et ea odit et ea voluptas etsapiente quia nihil amet occaecati quia id voluptatemincidunt ea est distinctio odio",
+  },
+  {
+    userId: 2,
+    id: 13,
+    title: "dolorum ut in voluptas mollitia et saepe quo animi",
+    body: "aut dicta possimus sint mollitia voluptas commodi quo doloremqueiste corrupti reiciendis voluptatem eius rerumsit cumque quod eligendi laborum minimaperferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
+  },
+  {
+    userId: 2,
+    id: 14,
+    title: "voluptatem eligendi optio",
+    body: "fuga et accusamus dolorum perferendis illo voluptasnon doloremque neque faceread qui dolorum molestiae beataesed aut voluptas totam sit illum",
+  },
+  {
+    userId: 2,
+    id: 15,
+    title: "eveniet quod temporibus",
+    body: "reprehenderit quos placeatvelit minima officia dolores impedit repudiandae molestiae namvoluptas recusandae quis delectusofficiis harum fugiat vitae",
+  },
+  {
+    userId: 2,
+    id: 16,
+    title: "eveniet quod temporibus",
+    body: "reprehenderit quos placeatvelit minima officia dolores impedit repudiandae molestiae namvoluptas recusandae quis delectusofficiis harum fugiat vitae",
+  },
+  {
+    userId: 2,
+    id: 17,
+    title: "eveniet quod temporibus",
+    body: "reprehenderit quos placeatvelit minima officia dolores impedit repudiandae molestiae namvoluptas recusandae quis delectusofficiis harum fugiat vitae",
+  },
+];

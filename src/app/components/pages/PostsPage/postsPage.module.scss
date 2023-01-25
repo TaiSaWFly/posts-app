@@ -1,0 +1,13 @@
+.posts_page {
+  padding: 15px 0;
+}
+
+.posts_page__item_wrapper {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.posts_page__paginate {
+  padding-top: 15px;
+}

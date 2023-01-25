@@ -1,0 +1,36 @@
+.post_page {
+  width: 100%;
+  max-width: 1070px;
+  margin: auto;
+  padding: 20px 15px 60px 15px;
+}
+
+.post_page__title {
+  text-transform: capitalize;
+}
+
+.post_page__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.post_page__user {
+  width: 250px;
+}
+
+.post_page__content {
+  display: flex;
+}
+
+.post_page__content_img {
+  width: 100%;
+  max-width: 500px;
+  margin-right: 15px;
+}
+
+.post_page__content_body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
